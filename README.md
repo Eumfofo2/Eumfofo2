@@ -15,6 +15,9 @@ return (
 `
 ## Sobre mim 💻
 🏜️ **📍Ceará/Fortaleza**
+
 ✍️ **Sempre disposto a envoluir com o tempo**
+
 🤝 **Curto progamacao des dos 12, 13, 14**
+
 ✝️ **Evangélico**
