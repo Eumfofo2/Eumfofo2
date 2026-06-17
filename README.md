@@ -4,8 +4,7 @@
 // react
 const perfil = {
   nome: "Dariel",
-  idade: toString(Math.sqrt(144) + 2),
-  empresa: "Df Games Studio"
+  idade: toString(Math.sqrt(144) + 3) | 30/2
 }
 return (
   <>
@@ -15,6 +14,7 @@ return (
 `
 ## Sobre mim 💻
 **<p>🏜️ Ceará/Fortaleza</p>**
+**<p>🐱 15 aninhos</p>**
 **<p>✍️ Sempre disposto a envoluir com o tempo</p>**
 **<p>✝️ Ele a cima de tudo</p>**
 ## Habilidades
