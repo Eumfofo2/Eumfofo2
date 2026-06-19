@@ -1,6 +1,7 @@
-# ``console.log("∆ Bem vindo(a) ao meu perfil 🎁");``
+# console.log("∆ Bem vindo(a) ao meu perfil 🎁");
+
 ## Informações minhas 🦎
-`
+```js
 // react
 const perfil = {
   nome: "Dariel",
@@ -11,7 +12,7 @@ return (
     <p>{perfil.map((t) => t)}</p>
   </>
 )
-`
+```
 ## Sobre mim 💻
 **<p>🏜️ Ceará/Fortaleza</p>**
 **<p>🐱 15 aninhos</p>**
